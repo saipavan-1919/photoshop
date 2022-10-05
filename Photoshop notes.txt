@@ -1,0 +1,33 @@
+This is Photoshop notes:
+
+Primary settings:
+	* Select the workspace as essentials
+		open "window"
+		select "workspace"
+		select "essentials"
+	* Reset essentials settings
+		open "window"
+		select "workspace"
+		select "reset essentials"
+
+
+Creating Duplicate layers:
+	* open a image first ( ctrl+o then select image )
+	* Then right click on the layer
+	* Select duplicate layers
+	
+Resize a image:
+	* select the image
+	* goto "edit"
+	* select "transofrm"
+	* slect "scale"
+	* hold shift to reduce both height and width
+	
+	
+Level adjustment:
+	* select the adjustment from the adjustments
+	* It will adjust the image black white and gray levels
+	* It will make the image look better.
+	* First we should adjust these to make the picture look better.
+	
+		

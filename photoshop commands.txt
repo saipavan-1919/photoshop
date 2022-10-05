@@ -1,0 +1,8 @@
+Photoshop commands:
+
+
+* shift + mouse  - reduce height and width equally (hold shift)
+* ctrl + + 		 - magnify the window (zoom in)
+* ctrl + -		 - de-magnify the window (zoom out)
+* ctrl + o 		 - to open a image
+* space + mouse  - to drag the image

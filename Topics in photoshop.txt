@@ -1,0 +1,9 @@
+Topics in tutorial:
+
+1) Photoshop primary settings
+2) Layers creation
+3) Adding images
+4) Resizing images
+5) Adjusting levels
+6) Adjusting vibrance
+7) 
