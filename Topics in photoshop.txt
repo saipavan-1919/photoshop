@@ -6,4 +6,4 @@ Topics in tutorial:
 4) Resizing images
 5) Adjusting levels
 6) Adjusting vibrance
-7) 
+7) Hue adjustments.
